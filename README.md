@@ -9,7 +9,7 @@
 
 ---
 
-Hello! I am Nikodem aka Borys! a student learning about Backend Software Engineer!
+Hello! My name is Nikodem! a student learning about Backend Software Engineer!
 
 ## Stats
 [![Nikodem's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=t91a60&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
