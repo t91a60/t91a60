@@ -25,5 +25,5 @@ Hello! My name is Nikodem. I'm a student learning backend software engineering.
 
 ## 🏆 Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=t91a60&theme=discord&column=6&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-readme-statss-gold.vercel.app/api?username=t91a60)](https://github.com/ryo-ma/github-profile-trophy)
 
