@@ -11,15 +11,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 Student uczący się **backend software engineering**
-- 🔨 Aktualnie buduję: **[SponsorVouch](https://github.com/t91a60/SponsorVouch)** — plugin do Minecrafta (Paper)
-- 🛠️ Tworzę projekty w HTML, CSS, JS, Python i Javie
-- 🌱 Rozwijam się w: **system design, backend architecture**
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
