@@ -85,7 +85,6 @@
     srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
 
 ---
