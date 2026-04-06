@@ -38,31 +38,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-nine-theta-95.vercel.app/api?username=t91a60&show_icons=true&count_private=true&hide_rank=true&border_radius=20&theme=tokyonight">
-  <img src="https://github-readme-stats-nine-theta-95.vercel.app/api?username=t91a60&show_icons=true&count_private=true&hide_rank=true&border_radius=20&theme=default">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-nine-theta-95.vercel.app/api/top-langs/?username=t91a60&layout=compact&langs_count=8&theme=tokyonight">
-  <img src="https://github-readme-stats-nine-theta-95.vercel.app/api/top-langs/?username=t91a60&layout=compact&langs_count=8&theme=default">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-nine-theta-95.vercel.app/api/wakatime?username=t91a60&langs_count=10&theme=tokyonight">
-  <img src="https://github-readme-stats-nine-theta-95.vercel.app/api/wakatime?username=t91a60&langs_count=10&theme=default">
-</picture>
-
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api?username=t91a60&show_icons=true&count_private=true&hide_rank=true&border_radius=20&theme=tokyonight" height="180px"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api/top-langs/?username=t91a60&layout=compact&langs_count=8&theme=tokyonight" height="180px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,7 +55,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t91a60&theme=dracula&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=t91a60&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
