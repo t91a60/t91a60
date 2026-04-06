@@ -44,7 +44,7 @@
       <img src="https://github-readme-stats-nine-theta-95.vercel.app/api?username=t91a60&show_icons=true&count_private=true&hide_rank=true&border_radius=20&theme=tokyonight" height="180px"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api/top-langs/?username=t91a60&layout=compact&langs_count=8&theme=tokyonight" height="180px"/>
+      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api/top-langs/?username=t91a60&layout=compact&langs_count=8&theme=tokyonight&border_radius=20" height="180px"/>
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t91a60&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=t91a60&theme=tokyonight&column=7&v=1" alt="trophies" />
 
 </div>
 
