@@ -11,9 +11,9 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
+
+## 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,40 +27,45 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api?username=t91a60&show_icons=true&count_private=true&hide_rank=true&border_radius=20&theme=tokyonight" height="180px"/>
+      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api?username=t91a60&show_icons=true&count_private=true&hide_rank=true&border_radius=15&theme=tokyonight&hide_border=true" height="180px"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api/top-langs/?username=t91a60&layout=compact&langs_count=8&theme=tokyonight&border_radius=20" height="180px"/>
+      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api/top-langs/?username=t91a60&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&hide_border=true" height="180px"/>
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=t91a60&theme=tokyonight&column=7&v=1" alt="trophies" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+<div align="center">
+
+## 🏆 Trophies
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=t91a60&theme=tokyonight&hide_border=true&column=7&v=1&border_radius=15" alt="trophies" />
+<br />
+
+</div>
+
+---
 
 <div align="center">
 
+## 🐍 Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake.svg">
 </picture>
+
 </div>
 
 ---
