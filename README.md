@@ -72,4 +72,5 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=t91a60&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <a href="https://www.passmark.com/baselines/V11/display.php?id=344818821413"><img src="https://www.passmark.com/baselines/V10/images/344818821413.png" alt="PassMark Rating" border="0" /></a>
 </div>
