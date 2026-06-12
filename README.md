@@ -2,10 +2,23 @@
 
 # こんにちは~ 👋 I'm Nikodem
 
-**Backend Software Engineering Student**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Backend+Software+Engineering+Student;Constantly+learning+new+things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 
 [![Website](https://img.shields.io/badge/🌐_Website-SOON-blue?style=for-the-badge)](SOON)
 [![GitHub](https://img.shields.io/badge/GitHub-t91a60-181717?style=for-the-badge&logo=github)](https://github.com/t91a60)
+
+</div>
+
+---
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+🌱 I'm currently focusing on **Backend Development and System Architecture**<br>
+🎓 Studying Software Engineering<br>
+💡 I love exploring new technologies and building efficient applications<br>
+📫 How to reach me: You can contact me via GitHub or my upcoming website!
 
 </div>
 
