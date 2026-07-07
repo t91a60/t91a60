@@ -1,76 +1,54 @@
 <div align="center">
 
-# こんにちは~ 👋 I'm Nikodem
+# 👋 Cześć, jestem Nikodem
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Backend+Software+Engineering+Student;Constantly+learning+new+things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
-
-</div>
-<div align="center">
-
-# 👨‍💻 About Me
-
-🌱 I'm currently focusing on **Backend Development and System Architecture**<br>
-🎓 Studying Software Engineering<br>
-💡 I love exploring new technologies and building efficient applications<br>
-📫 How to reach me: You can contact me via GitHub or my upcoming website!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer+(Frontend+%2B+Backend);Building+real+tools+for+real+users" alt="Typing SVG" /></a>
 
 </div>
 
-<div align="center">
+## 👨‍💻 O mnie
 
-# 🛠️ Tech Stack
+- 🎓 Studiuję Software Engineering
+- 🧠 Rozwijam się w **Full-Stack** (frontend + backend)
+- 🛠️ Lubię budować praktyczne aplikacje z naciskiem na użyteczność i wydajność
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🚀 Wybrane projekty
+
+### [Apply Log](https://t91a60.github.io/Apply-Log-plus/)
+Tracker aplikacji o pracę w przeglądarce — synchronizacja przez GitHub Gist, szyfrowanie AES-GCM i import ofert.
+`React` `TypeScript` `Dexie.js` `IndexedDB`
+
+### [AlkoRater](https://t91a60.github.io/AlkoRater/)
+PWA do oceniania alkoholi z pełnym redesignem UI (wersja mobile).
+`JavaScript` `PWA` `UI/UX`
+
+### OSP Logbook *(projekt prywatny)*
+Dziennik pojazdów i sprzętu dla OSP — realne narzędzie dla realnych użytkowników.
+`Flask` `Python`
+
+### PurrOS Optimization Playbook *(projekt prywatny)*
+Prywatny playbook optymalizacyjny dla PurrOS.
+`Linux` `Performance tuning` `Automation`
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+## 📫 Kontakt
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikodem%20Boryczka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikodem-boryczka-6a7b5834a/)
+[![Email](https://img.shields.io/badge/Email-t91a60%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t91a60@gmail.com)
 
-# 📊 GitHub Stats
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api?username=t91a60&show_icons=true&count_private=true&hide_rank=true&border_radius=15&theme=tokyonight&hide_border=true" height="180px"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-nine-theta-95.vercel.app/api/top-langs/?username=t91a60&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&hide_border=true" height="180px"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-
-# 🏆 Trophies
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=t91a60&theme=tokyonight&hide_border=true&column=7&v=1&border_radius=15" alt="trophies" />
-<br />
-
-</div>
-
-<br>
-<div align="center">
-
-# 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-
----
-
-<br>
-<div align="center">
-
-<a href="https://www.passmark.com/baselines/V11/display.php?id=344818821413"><img src="https://www.passmark.com/baselines/V10/images/344818821413.png" alt="PassMark Rating" border="0" /></a>
-
-</div>
