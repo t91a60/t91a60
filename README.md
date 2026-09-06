@@ -1,54 +1,32 @@
 <div align="center">
 
-# 👋 Cześć, jestem Nikodem
+# Cześć, jestem Nikodem 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer+(Frontend+%2B+Backend);Building+real+tools+for+real+users" alt="Typing SVG" /></a>
+**Student Software Engineering, rozwijający się jako full-stack developer.**
 
+Buduję użyteczne aplikacje webowe — od mobilnych PWA po API i interaktywne interfejsy — z naciskiem na prywatność, czytelny UX i praktyczne wdrożenia.
+
+[Portfolio](https://t91a60.github.io/NikodemBoryczka/) · [LinkedIn](https://www.linkedin.com/in/nikodem-boryczka-6a7b5834a/) · [E-mail](mailto:t91a60@gmail.com)
 </div>
 
-## 👨‍💻 O mnie
+## Wybrane publiczne projekty
 
-- 🎓 Studiuję Software Engineering
-- 🧠 Rozwijam się w **Full-Stack** (frontend + backend)
-- 🛠️ Lubię budować praktyczne aplikacje z naciskiem na użyteczność i wydajność
+| Projekt | Co robi | Technologie |
+| --- | --- | --- |
+| [Apply Log+](https://github.com/t91a60/Apply-Log-plus) | Offline-first tracker aplikacji o pracę z opcjonalną, zaszyfrowaną synchronizacją przez GitHub Gist. | React, TypeScript, IndexedDB, Web Crypto |
+| [AlkoRater](https://github.com/t91a60/AlkoRater) | Lokalna PWA do przeszukiwania i oceniania trunków. | JavaScript, IndexedDB, Service Worker |
+| [NikodemBoryczka](https://github.com/t91a60/NikodemBoryczka) | Interaktywne portfolio w formie pulpitu inspirowanego Ubuntu. | React, Vite, Motion, Tailwind CSS |
+| [Gather](https://github.com/t91a60/Gather) | REST API łączące wydarzenia ze społecznościowymi funkcjami aplikacji. | FastAPI, PostgreSQL, Redis, Docker |
+| [UPM Ultras](https://github.com/t91a60/upm-ultras) | Oficjalna, responsywna strona Ultras Polonia Międzyrzecze. | HTML, CSS, JavaScript, Vite |
+| [Fivem Custom Plate](https://github.com/t91a60/Fivem-custom-plate) | Zasób FiveM podmieniający tekstury tablic rejestracyjnych przez DUI. | Lua, FiveM |
 
-## 🚀 Wybrane projekty
+## Obszary, w których pracuję
 
-### [Apply Log](https://t91a60.github.io/Apply-Log-plus/)
-Tracker aplikacji o pracę w przeglądarce — synchronizacja przez GitHub Gist, szyfrowanie AES-GCM i import ofert.
-`React` `TypeScript` `Dexie.js` `IndexedDB`
+- Frontend: JavaScript, TypeScript, React, HTML, CSS i PWA.
+- Backend: Python, Flask, FastAPI oraz projektowanie API.
+- Dane i infrastruktura: PostgreSQL, Redis, Docker, GitHub Actions.
+- Jakość produktu: dostępność, responsywność, testy i doświadczenie użytkownika.
 
-### [AlkoRater](https://t91a60.github.io/AlkoRater/)
-PWA do oceniania alkoholi z pełnym redesignem UI (wersja mobile).
-`JavaScript` `PWA` `UI/UX`
+## Kontakt
 
-### OSP Logbook *(projekt prywatny)*
-Dziennik pojazdów i sprzętu dla OSP — realne narzędzie dla realnych użytkowników.
-`Flask` `Python`
-
-### PurrOS Optimization Playbook *(projekt prywatny)*
-Prywatny playbook optymalizacyjny dla PurrOS.
-`Linux` `Performance tuning` `Automation`
-
-## 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📫 Kontakt
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikodem%20Boryczka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikodem-boryczka-6a7b5834a/)
-[![Email](https://img.shields.io/badge/Email-t91a60%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t91a60@gmail.com)
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/t91a60/t91a60/output/github-contribution-grid-snake.svg">
-</picture>
+Najłatwiej złapać mnie przez [LinkedIn](https://www.linkedin.com/in/nikodem-boryczka-6a7b5834a/) albo [e-mail](mailto:t91a60@gmail.com). W sprawach konkretnych projektów najlepiej otworzyć issue w odpowiednim repozytorium.
