@@ -1,32 +1,36 @@
+
 <div align="center">
 
-# Cześć, jestem Nikodem 👋
+# Nikodem Boryczka
 
-**Student Software Engineering, rozwijający się jako full-stack developer.**
+**Web applications · APIs · Automation · System tools**
 
-Buduję użyteczne aplikacje webowe — od mobilnych PWA po API i interaktywne interfejsy — z naciskiem na prywatność, czytelny UX i praktyczne wdrożenia.
+[Portfolio](https://t91a60.github.io/NikodemBoryczka/) · [GitHub Projects](https://github.com/t91a60?tab=repositories) · [Credly](https://www.credly.com/users/nikodem-boryczka/badges/credly) · [Email](mailto:nikodemboryczka@outlook.com)
 
-[Portfolio](https://t91a60.github.io/NikodemBoryczka/) · [LinkedIn](https://www.linkedin.com/in/nikodem-boryczka-6a7b5834a/) · [E-mail](mailto:t91a60@gmail.com)
 </div>
 
-## Wybrane publiczne projekty
+## Selected projects
 
-| Projekt | Co robi | Technologie |
+| Project | Description | Stack |
 | --- | --- | --- |
-| [Apply Log+](https://github.com/t91a60/Apply-Log-plus) | Offline-first tracker aplikacji o pracę z opcjonalną, zaszyfrowaną synchronizacją przez GitHub Gist. | React, TypeScript, IndexedDB, Web Crypto |
-| [AlkoRater](https://github.com/t91a60/AlkoRater) | Lokalna PWA do przeszukiwania i oceniania trunków. | JavaScript, IndexedDB, Service Worker |
-| [NikodemBoryczka](https://github.com/t91a60/NikodemBoryczka) | Interaktywne portfolio w formie pulpitu inspirowanego Ubuntu. | React, Vite, Motion, Tailwind CSS |
-| [Gather](https://github.com/t91a60/Gather) | REST API łączące wydarzenia ze społecznościowymi funkcjami aplikacji. | FastAPI, PostgreSQL, Redis, Docker |
-| [UPM Ultras](https://github.com/t91a60/upm-ultras) | Oficjalna, responsywna strona Ultras Polonia Międzyrzecze. | HTML, CSS, JavaScript, Vite |
-| [Fivem Custom Plate](https://github.com/t91a60/Fivem-custom-plate) | Zasób FiveM podmieniający tekstury tablic rejestracyjnych przez DUI. | Lua, FiveM |
+| [Apply Log+](https://github.com/t91a60/Apply-Log-plus) | Offline-first application tracker with encrypted sync. | React, TypeScript, IndexedDB, Web Crypto |
+| [Gather](https://github.com/t91a60/Gather) | REST API for events, user profiles, and social features. | Python, FastAPI, PostgreSQL, Redis, Docker |
+| [PurrOS](https://github.com/t91a60/PurrOS) | Windows 11 configuration and debloat playbook. **In development.** | AME Wizard, Windows |
+| [OSP Logbook](https://github.com/t91a60/osp-logbook) | Offline-capable vehicle and equipment logbook. **Preparing for pilot testing.** | Python, Flask, PostgreSQL, PWA |
+| [Portfolio](https://github.com/t91a60/NikodemBoryczka) | Interactive desktop-inspired developer portfolio. [Live demo](https://t91a60.github.io/NikodemBoryczka/). | React, Vite, Tailwind CSS |
 
-## Obszary, w których pracuję
+## Tech
 
-- Frontend: JavaScript, TypeScript, React, HTML, CSS i PWA.
-- Backend: Python, Flask, FastAPI oraz projektowanie API.
-- Dane i infrastruktura: PostgreSQL, Redis, Docker, GitHub Actions.
-- Jakość produktu: dostępność, responsywność, testy i doświadczenie użytkownika.
+`Python` `JavaScript` `TypeScript` `React` `FastAPI` `Flask` `SQL` `PostgreSQL` `Git` `Docker`
 
-## Kontakt
+## Certifications
 
-Najłatwiej złapać mnie przez [LinkedIn](https://www.linkedin.com/in/nikodem-boryczka-6a7b5834a/) albo [e-mail](mailto:t91a60@gmail.com). W sprawach konkretnych projektów najlepiej otworzyć issue w odpowiednim repozytorium.
+- [Cisco Networking Academy — Introduction to Cybersecurity (2026)](https://www.credly.com/users/nikodem-boryczka/badges/credly)
+- [IBM SkillsBuild — Basic Principles of Design (2025)](https://www.credly.com/users/nikodem-boryczka/badges/credly)
+- **Akademia PARP** — ABC zarządzania projektami IT (2024)
+
+[View verified digital badges on Credly →](https://www.credly.com/users/nikodem-boryczka/badges/credly)
+
+## Contact
+
+[nikodemboryczka@outlook.com](mailto:nikodemboryczka@outlook.com)
