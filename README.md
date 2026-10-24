@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# Nikodem Boryczka
-
 **Web applications · APIs · Automation · System tools**
 
 [Portfolio](https://t91a60.github.io/NikodemBoryczka/) · [GitHub Projects](https://github.com/t91a60?tab=repositories) · [Credly](https://www.credly.com/users/nikodem-boryczka/badges/credly) · [Email](mailto:nikodemboryczka@outlook.com)
