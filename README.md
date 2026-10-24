@@ -13,8 +13,8 @@
 | --- | --- | --- |
 | [Apply Log+](https://github.com/t91a60/Apply-Log-plus) | Offline-first application tracker with encrypted sync. | React, TypeScript, IndexedDB, Web Crypto |
 | [Gather](https://github.com/t91a60/Gather) | REST API for events, user profiles, and social features. | Python, FastAPI, PostgreSQL, Redis, Docker |
-| [PurrOS](https://github.com/t91a60/PurrOS) | Windows 11 configuration and debloat playbook. **In development.** | AME Wizard, Windows |
-| [OSP Logbook](https://github.com/t91a60/osp-logbook) | Offline-capable vehicle and equipment logbook. **Preparing for pilot testing.** | Python, Flask, PostgreSQL, PWA |
+| PurrOS **(private)** | Windows 11 configuration and debloat playbook. **Private repository · in development.** | AME Wizard, Windows |
+| OSP Logbook **(private)** | Offline-capable vehicle and equipment logbook. **Private repository · preparing for pilot testing.** | Python, Flask, PostgreSQL, PWA |
 | [Portfolio](https://github.com/t91a60/NikodemBoryczka) | Interactive desktop-inspired developer portfolio. [Live demo](https://t91a60.github.io/NikodemBoryczka/). | React, Vite, Tailwind CSS |
 
 ## Tech
