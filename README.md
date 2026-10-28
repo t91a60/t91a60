@@ -23,11 +23,21 @@
 
 ## Certifications
 
-- [Cisco Networking Academy — Introduction to Cybersecurity (2026)](https://www.credly.com/users/nikodem-boryczka/badges/credly)
-- [IBM SkillsBuild — Basic Principles of Design (2025)](https://www.credly.com/users/nikodem-boryczka/badges/credly)
-- **Akademia PARP** — ABC zarządzania projektami IT (2024)
+**HackerRank — Verified Skills & Role Certifications**
+- Software Engineer Intern
+- Python (Basic)
+- CSS (Basic)
 
-[View verified digital badges on Credly →](https://www.credly.com/users/nikodem-boryczka/badges/credly)
+**Cisco Networking Academy**
+- [Introduction to Cybersecurity (2026)](https://www.credly.com/users/nikodem-boryczka/badges/credly)
+
+**IBM SkillsBuild**
+- [Basic Principles of Design (2025)](https://www.credly.com/users/nikodem-boryczka/badges/credly)
+
+**Akademia PARP**
+- ABC zarządzania projektami IT (2024)
+
+[View digital badges on Credly](https://www.credly.com/users/nikodem-boryczka/badges/credly)
 
 ## Contact
 
