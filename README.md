@@ -6,33 +6,14 @@
 
 </div>
 
-## Selected projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/stage-dark.svg"><img alt="Hi, I'm Nikodem. A code bot walks in and snaps half of this profile away." src="https://raw.githubusercontent.com/t91a60/t91a60/output/stage-light.svg" width="100%"></picture>
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Apply Log+](https://github.com/t91a60/Apply-Log-plus) | Browser-based application tracker with optional encrypted sync. | React, TypeScript, IndexedDB, Web Crypto |
-| [Gather](https://github.com/t91a60/Gather) | REST API for events, user profiles, and social features. | Python, FastAPI, PostgreSQL, Redis, Docker |
-| [Portfolio](https://github.com/t91a60/NikodemBoryczka) | Interactive desktop-inspired developer portfolio. [Live demo](https://t91a60.github.io/NikodemBoryczka/). | React, Vite, Tailwind CSS |
+<a href="https://github.com/t91a60?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/row-about-dark.svg"><img alt="About me: I build web applications, APIs and automation tools with React, TypeScript, Python and FastAPI. Tools: Python, JavaScript, TypeScript, React, FastAPI, Flask, SQL, PostgreSQL, Git, Docker." src="https://raw.githubusercontent.com/t91a60/t91a60/output/row-about-light.svg" width="100%"></picture></a>
 
-## Tech
+<a href="https://t91a60.github.io/NikodemBoryczka/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/row-projects-dark.svg"><img alt="Selected projects: Apply Log+, a browser-based application tracker; Gather, a REST API for events and profiles; and an interactive desktop-style portfolio." src="https://raw.githubusercontent.com/t91a60/t91a60/output/row-projects-light.svg" width="100%"></picture></a>
 
-`Python` `JavaScript` `TypeScript` `React` `FastAPI` `Flask` `SQL` `PostgreSQL` `Git` `Docker`
+<a href="https://www.credly.com/users/nikodem-boryczka/badges/credly"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/row-certs-dark.svg"><img alt="Certifications: HackerRank verified skills, Cisco Introduction to Cybersecurity, IBM Basic Principles of Design, Akademia PARP project management." src="https://raw.githubusercontent.com/t91a60/t91a60/output/row-certs-light.svg" width="100%"></picture></a>
 
-## Certifications
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/activity-dark.svg"><img alt="Contribution activity over the last 60 days" src="https://raw.githubusercontent.com/t91a60/t91a60/output/activity-light.svg" width="100%"></picture>
 
-**HackerRank — Verified Skills & Role Certifications**
-- Software Engineer Intern
-- Python (Basic)
-- CSS (Basic)
-
-**Cisco Networking Academy**
-- [Introduction to Cybersecurity (2026)](https://www.credly.com/users/nikodem-boryczka/badges/credly)
-
-**IBM SkillsBuild**
-- [Basic Principles of Design (2025)](https://www.credly.com/users/nikodem-boryczka/badges/credly)
-
-**Akademia PARP**
-- ABC zarządzania projektami IT (2024)
-
-[View digital badges on Credly](https://www.credly.com/users/nikodem-boryczka/badges/credly)
-
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/overview-dark.svg"><img alt="Contribution totals and languages" src="https://raw.githubusercontent.com/t91a60/t91a60/output/overview-light.svg" width="100%"></picture>
