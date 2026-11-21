@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="440" viewBox="0 0 860 440" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<title>Nikodem&#39;s profile: a geometric mark walks in and snaps</title>
+<style>
+.mark { animation: walkx 12s linear forwards; }
+@keyframes walkx { 0% { transform: translate(860px, 180px); } 8.333% { transform: translate(860px, 180px); } 33.333% { transform: translate(560px, 180px); } 100% { transform: translate(560px, 180px); } }
+.bob { animation: bob 0.4s ease-in-out 10 forwards; }
+@keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+.core { animation: pulse 0.6s ease-out 5.9s forwards; transform-box: fill-box; transform-origin: center; }
+@keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.25); } 100% { transform: scale(1); } }
+@keyframes bubble{0%{opacity:0}37.500%{opacity:1}49.167%{opacity:0}}.bubble{animation-name:bubble;opacity:0}
+@keyframes word{0%{opacity:0;transform:scale(.4)}63.333%{opacity:0;transform:scale(.4)}65.000%{opacity:1;transform:scale(1.1)}72.500%{opacity:1;transform:scale(1)}76.667%{opacity:0;transform:scale(1)}100%{opacity:0}}
+.word{animation-name:word;animation-timing-function:ease-out;transform-box:fill-box;transform-origin:center;opacity:0}
+@keyframes flash{0%{opacity:0}63.333%{opacity:0}64.000%{opacity:0.7}69.167%{opacity:0}100%{opacity:0}}
+.flash{animation-name:flash;animation-timing-function:ease-out;opacity:0}
+@keyframes caption{0%{opacity:0}86.250%{opacity:0}91.250%{opacity:1}100%{opacity:1}}
+.caption{animation-name:caption;animation-timing-function:ease-in-out;opacity:0}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.mark{transform:translate(560px,180px)!important}.caption{opacity:1}.word,.flash,.bubble{opacity:0}}
+</style>
+
+<defs>
+  <linearGradient id="hexGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0969da"/>
+    <stop offset="1" stop-color="#f6f8fa"/>
+  </linearGradient>
+  <radialGradient id="coreGrad" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#fff8dc"/>
+    <stop offset="1" stop-color="#0969da"/>
+  </radialGradient>
+</defs>
+<text x="0" y="44" font-size="34" font-weight="800" fill="#1f2328">Hi, I'm Nikodem</text>
+<text x="0" y="74" font-size="15" fill="#59636e">Web apps, APIs, automation</text>
+<text x="0" y="98" font-size="13" fill="#59636e">React · TypeScript · Python · FastAPI</text>
+<g class="mark">
+  <g class="bob">
+    <circle cx="80" cy="80" r="74" fill="none" stroke="#0969da" stroke-width="1.5" opacity="0.35"/>
+    <polygon points="80,8 144,44 144,116 80,152 16,116 16,44" fill="url(#hexGrad)" stroke="#d0d7de" stroke-width="1.5"/>
+    <circle class="core" cx="80" cy="80" r="26" fill="url(#coreGrad)"/>
+    <text x="80" y="94" text-anchor="middle" font-size="34" font-weight="900" fill="#ffffff">N</text>
+  </g>
+</g>
+<g class="bubble">
+  <rect x="390" y="168" width="170" height="40" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+  <path d="M559 184 l16 6 l-16 6 z" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="475" y="194" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">Ship it.</text>
+</g>
+<text class="word" x="650" y="270" text-anchor="middle" font-size="44" font-weight="900" font-style="italic" fill="#ffd23f" stroke="#9c6a10" stroke-width="1.5">SNAP</text>
+<text class="caption" x="860" y="424" text-anchor="end" font-size="15" font-style="italic" fill="#59636e">Less noise, more signal.</text>
+<rect class="flash" width="860" height="440" fill="#fff8dc"/>
+</svg>
