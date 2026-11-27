@@ -7,27 +7,14 @@ export const T = {
   arrive: 4.0,
   speak: 4.5,
   raise: 5.9,
-  charge: 6.4,
   snap: 7.6,
   dust: 7.75,
-  gap: 0.45,
   end: 12,
 };
 
 const esc = (s) =>
   String(s).replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
 const pct = (t) => `${Math.min(100, (t / T.end) * 100).toFixed(3)}%`;
-
-/** Deterministic noise, so a given seed always lays the dust out the same way. */
-export function random(seed) {
-  return () => {
-    seed |= 0;
-    seed = (seed + 0x6d2b79f5) | 0;
-    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
-    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
-    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-  };
-}
 
 /** Keyframes that show something only inside the given [from, to) windows. */
 function windows(name, spans) {
