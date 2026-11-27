@@ -6,8 +6,7 @@
 
 import { mkdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
-import { T, stageSvg } from './mascot.mjs';
-import { ROWS, pickSnapped, rowSvg } from './sections.mjs';
+import { stageSvg } from './mascot.mjs';
 
 const login = process.argv[2] ?? 't91a60';
 const outDir = process.argv[3] ?? 'dist';
@@ -234,17 +233,11 @@ const days = user.contributionsCollection.contributionCalendar.weeks
 	.slice(-DAYS);
 
 await mkdir(outDir, { recursive: true });
-// Half the sections are snapped; which half changes with each six-hour run.
-const seed = Number(process.env.CHUNGUS_SEED ?? Math.floor(Date.now() / (6 * 3600 * 1000)));
-const snapped = pickSnapped(seed);
-console.log(`Snapping: ${[...snapped].join(', ')}`);
 for (const [name, theme] of Object.entries(THEMES)) {
 	const activity = activitySvg(days, theme);
 	const overview = overviewSvg(user, theme);
 	await writeFile(join(outDir, `activity-${name}.svg`), activity);
 	await writeFile(join(outDir, `overview-${name}.svg`), overview);
 	await writeFile(join(outDir, `stage-${name}.svg`), stageSvg(theme));
-	for (const [i, row] of ROWS.entries())
-		await writeFile(join(outDir, `row-${row.id}-${name}.svg`), rowSvg(row, theme, snapped, T.dust + i * T.gap, seed + i));
 }
-console.log(`Wrote activity, overview, stage and row SVGs for ${login} to ${outDir}`);
+console.log(`Wrote activity, overview and stage SVGs for ${login} to ${outDir}`);
