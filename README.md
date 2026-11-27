@@ -5,8 +5,8 @@ I build local-first web apps, APIs, and tools for everyday workflows. I work mai
 [Desktop portfolio repository](https://github.com/t91a60/Nikodem) · [Browse my public repositories](https://github.com/t91a60?tab=repositories)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/stage-dark.svg?v=2">
-  <img alt="Animated code bot on a retro computer desktop" src="https://raw.githubusercontent.com/t91a60/t91a60/output/stage-light.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t91a60/t91a60/output/stage-dark.svg?v=3">
+  <img alt="Hi, I'm Nikodem. A geometric mark walks in and snaps." src="https://raw.githubusercontent.com/t91a60/t91a60/output/stage-light.svg?v=3" width="100%">
 </picture>
 
 ## Selected projects

@@ -63,13 +63,13 @@ export function stageSvg(theme) {
 @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
 .core { animation: pulse 0.6s ease-out ${T.raise}s forwards; transform-box: fill-box; transform-origin: center; }
 @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.25); } 100% { transform: scale(1); } }
-${windows("bubble", [[T.speak, T.raise]])}.bubble{animation-name:bubble;opacity:0}
+${windows("bubble", [[T.speak, T.raise]])}.bubble{animation:bubble ${T.end}s forwards;opacity:0}
 @keyframes word{0%{opacity:0;transform:scale(.4)}${pct(T.snap)}{opacity:0;transform:scale(.4)}${pct(T.snap + 0.2)}{opacity:1;transform:scale(1.1)}${pct(T.snap + 1.1)}{opacity:1;transform:scale(1)}${pct(T.snap + 1.6)}{opacity:0;transform:scale(1)}100%{opacity:0}}
-.word{animation-name:word;animation-timing-function:ease-out;transform-box:fill-box;transform-origin:center;opacity:0}
+.word{animation:word ${T.end}s ease-out forwards;transform-box:fill-box;transform-origin:center;opacity:0}
 @keyframes flash{0%{opacity:0}${pct(T.snap)}{opacity:0}${pct(T.snap + 0.08)}{opacity:${theme.flashPeak}}${pct(T.snap + 0.7)}{opacity:0}100%{opacity:0}}
-.flash{animation-name:flash;animation-timing-function:ease-out;opacity:0}
+.flash{animation:flash ${T.end}s ease-out forwards;opacity:0}
 @keyframes caption{0%{opacity:0}${pct(T.dust + 2.6)}{opacity:0}${pct(T.dust + 3.2)}{opacity:1}100%{opacity:1}}
-.caption{animation-name:caption;animation-timing-function:ease-in-out;opacity:0}
+.caption{animation:caption ${T.end}s ease-in-out forwards;opacity:0}
 @media (prefers-reduced-motion: reduce){*{animation:none!important}.mark{transform:translate(${X1}px,${Y}px)!important}.caption{opacity:1}.word,.flash,.bubble{opacity:0}}
 `;
 
